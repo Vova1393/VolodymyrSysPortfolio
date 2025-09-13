@@ -1,0 +1,21 @@
+20:24:09.776 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\V.Sys\AppData\Local\JetBrains\IntelliJIdea2024.1\temp-testng-customsuite.xml" 
+20:24:10.200 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeMethod(org.testng.ITestResult)[pri:0, instance:null] 1309500029 
+20:24:10.201 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING 
+20:24:10.203 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING 
+20:24:10.204 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES 
+20:24:10.204 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES 
+20:24:10.207 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.methodTearDown(org.testng.ITestResult)[pri:0, instance:null] 45931866 
+20:24:10.207 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING 
+20:24:10.207 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING 
+20:24:10.207 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES 
+20:24:10.207 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES 
+20:24:10.213 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE Locators.testLoginByEmail()[pri:0, instance:RelativeLocators.Locators@68ead359] -152810066 
+20:24:10.213 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING 
+20:24:10.214 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING 
+20:24:10.214 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES 
+20:24:10.214 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES 
+20:24:10.218 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\V.Sys\AppData\Local\JetBrains\IntelliJIdea2024.1\temp-testng-customsuite.xml
+ 
+20:24:13.578 [main] INFO  saucedemo.base.BaseTest - Test testLoginByEmail started 
+20:24:14.084 [main] INFO  saucedemo.base.BaseTest - Upłenęło czasu 506ms  
