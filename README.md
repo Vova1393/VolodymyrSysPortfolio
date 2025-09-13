@@ -1,11 +1,11 @@
-# Portfolio Project: SauceDemo Test Automation
+Portfolio Project: SauceDemo Test Automation
 
 Automation testing project built with **Java**, **Selenium WebDriver**, and **TestNG** using the **Page Object Model (POM)** design pattern.  
 This repository is part of my QA Automation portfolio and demonstrates skills in **UI test automation, reporting, and logging**.
 
 ---
 
-## 🚀 Tech Stack
+Tech Stack
 - **Java 17**
 - **Maven** – build & dependency management
 - **Selenium WebDriver** – browser automation
@@ -15,7 +15,7 @@ This repository is part of my QA Automation portfolio and demonstrates skills in
 
 ---
 
-## 📂 Project Structure
+Project Structure
 ```
 src
  ├── main
@@ -32,7 +32,7 @@ src
          └── RelativeLocators # Example with relative locator
 ```
 
-## ✅ Implemented Features
+Implemented Features
 - Login tests (valid/invalid credentials)
 - Adding/removing products from the cart
 - Validating cart summary
@@ -43,7 +43,7 @@ src
 
 ---
 
-## 📊 Reports
+Reports
 After running the tests, generate an **Allure Report**:  
 ```bash
 allure serve allure-results
